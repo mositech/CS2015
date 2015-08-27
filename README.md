@@ -3,8 +3,8 @@
 * **Class:** [MOSI Home School Computer Science](http://www.campfun.org/hisccoprsea11.html)
 * **Instructor:** Chase Starr, [chase.starr@mosi.org](mailto:chase.starr@mosi.org)
 * **Need Help?**
-    *Look through and create [issues](https://github.com/mositech/CS2015/issues)
-    *[Email](mailto:chase.starr@mosi.org) for 1-on-1 help, or to set up a time to meet
+  * Look through and create [issues](https://github.com/mositech/CS2015/issues)
+  * [Email](mailto:chase.starr@mosi.org) for 1-on-1 help, or to set up a time to meet
 
 Welcome. This repository contains materials for [MOSI](mosi.org)'s 2015 Home School Computer Science Class. All documents required for this course will posted here for convenient access in the computer lab and at home. Below is a desciption of the class.
 >Let's take a different approach towards high school math education with a focus on introductory computer programming. Programming is the process of instructing computers to carry out certain tasks - any games, software, application, etc. on a computer was created by a human through programming. Students will learn the basics of the Java programming language and computational thinking, through project-based learning in class and practice study at home. 
