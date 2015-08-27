@@ -8,8 +8,7 @@ This class will be using [Processing](processing.org) to complete all homework a
 To Download, click [here](https://processing.org/download/) to pull up processing's website. Processing is available for free, but also accepts donations if you are inclined to do so. Select a donation amount (custom amount or no donation) and then click "Download" below. On the next page, choose your operating system and the download will begin. Open up the downloaded folder and copy the inside folder onto your desktop or anywhere else on your computer. Open that folder and inside you will find the processing application.
 
 ###Youtube Video Content
-Along with in-class content I will recording and posting videos to the [MOSI Tech Youtube channel](https://www.youtube.com/channel/UCWa3hzEDpYG_clePNQVmciA/feed)
-
+Along with in-class content I will be recording and posting videos to the [MOSI Tech Youtube channel](https://www.youtube.com/channel/UCWa3hzEDpYG_clePNQVmciA/feed). Each week, new videos will be posted to Youtube and linked on our class repo.
 
 ###Questions or comments?
 Contact me at chase.starr@mosi.org.
