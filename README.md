@@ -1,6 +1,4 @@
 # CS2015
-
-[![Join the chat at https://gitter.im/mositech/CS2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mositech/CS2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Welcome. This repository contains materials for [MOSI](mosi.org)'s 2015 Home School Computer Science Class. All documents required for this course will posted here for convenient access in the computer lab and at home. Below is a desciption of the class.
 >Let's take a different approach towards high school math education with a focus on introductory computer programming. Programming is the process of instructing computers to carry out certain tasks - any games, software, application, etc. on a computer was created by a human through programming. Students will learn the basics of the Java programming language and computational thinking, through project-based learning in class and practice study at home. 
 
