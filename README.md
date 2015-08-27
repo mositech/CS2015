@@ -17,7 +17,7 @@ To Download, click [here](https://processing.org/download/) to pull up processin
 ##Github
 All class materials *(aside from video tutorials - more on that later)* will be right here on Github. You may be thinking... What is Github and why is this website useful? 
 
-Github is used by programmers to collaborate on projects together and keep their code as organized as possible. Think of it basically as a fancy hard drive on the internet. For the purpase of this class, Github will only be used to host documents that I want you all to see. There's a lot of cool and exciting things to do on here, but we will not be many of them. If you want to learn more about the nuts and bolts of Github, click [here](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1) to watch some tutorial videos.
+Github is used by programmers to collaborate on projects together and keep their code as organized as possible. Think of it basically as a fancy hard drive on the internet. For the purpase of this class, Github will only be used to host documents that I want you all to see. There's a lot of cool and exciting things to do on here, but we will not be using many of them. If you want to learn more about the nuts and bolts of Github, click [here](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1) to watch some tutorial videos.
 
 You will need to create a Github account to complete some assignments for this class, but Github does not require personal information for you to sign up! All you need is an email account to verify that you are human. :smirk: When on Github, please do not use your real name unless your parents approve of it.
 
