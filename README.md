@@ -24,7 +24,7 @@ Github is used by programmers to collaborate on projects together and keep their
 You will need to create a Github account to complete some assignments for this class, but Github does not require personal information for you to sign up! All you need is an email account to verify that you are human. :smirk: ***When on Github and anywhere else on the web, please do not use your real name unless your parents approve of it.***
 
 ### Youtube Video Content
-Along with in-class content I will record and post videos to the [MOSI Tech Youtube channel](https://www.youtube.com/channel/UCWa3hzEDpYG_clePNQVmciA/feed). Each week, new videos will be posted to Youtube and linked on our class repo. You will not need to make a Youtube account to view these videos. Just click on the link and start watching!
+Along with in-class content I will sometimes record and post videos to the [MOSI Tech Youtube channel](https://www.youtube.com/channel/UCWa3hzEDpYG_clePNQVmciA/feed). New videos will be posted to Youtube and linked on our class repo on Github. You will not need to make a Youtube account to view these videos. Just click on the link and start watching!
 
 ### Questions or comments?
 Contact me at [chase.starr@mosi.org](mailto:chase.starr@mosi.org).
