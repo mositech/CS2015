@@ -14,6 +14,8 @@
 * [line(x1,y1,x2,y2)](https://processing.org/reference/line_.html)
 * [rect(x,y,w,h)](https://processing.org/reference/rect_.html)
 * [ellipse(x,y,w,h)](https://processing.org/reference/ellipse_.html)
+* [fill(r,g,b)](https://processing.org/reference/fill_.html)
+* [stroke(r,g,b)](https://processing.org/reference/stroke_.html)
 
 ###Images
 ![coordinates](https://github.com/mositech/CS2015/blob/master/Class-Material/week01/imageNotes/01_coordinates.jpg?raw=true)
