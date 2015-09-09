@@ -1,4 +1,4 @@
-#Week 1
+#Week 1 :boom:
 
 ###Items covered
 * Coordinate system
@@ -8,6 +8,9 @@
 * Fill & Stroke
 * Github
 * Links to [Youtube](https://www.youtube.com/channel/UCWa3hzEDpYG_clePNQVmciA) & [Github Issues](https://github.com/mositech/CS2015/issues)
+
+### Homework
+* hw for this week can be found [here](https://github.com/mositech/CS2015/issues/2)
 
 ###Links to Documentation
 * [point(x,y):](https://processing.org/reference/point_.html)
