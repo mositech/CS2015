@@ -3,7 +3,7 @@
 ###Items covered
 * Coordinate system
 * Points, Lines, Recangles, Ellipses
-* Commands
+* Pixels
 * RGB color
 * Fill & Stroke
 * Github
