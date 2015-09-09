@@ -1,4 +1,4 @@
-#Week 1 :boom:
+#Week 1
 
 ###Items covered
 * Coordinate system
