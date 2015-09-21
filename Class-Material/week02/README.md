@@ -18,4 +18,4 @@
 ###Images
 ![Functions](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/01_function.jpg?raw=true)
 ![size](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/02_size.jpg?raw=true)
-![changingColors](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/01_function.jpg?raw=true)
+![changingColors](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/03_changingColors.jpg?raw=true)
