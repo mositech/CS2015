@@ -16,4 +16,6 @@
 * [size(width,height):](https://processing.org/reference/size_.html)
 
 ###Images
-![coordinates](https://github.com/mositech/CS2015/blob/master/Class-Material/week01/imageNotes/01_coordinates.jpg?raw=true)
+![Functions](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/01_function.jpg?raw=true)
+![size](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/02_size.jpg?raw=true)
+![changingColors](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/01_function.jpg?raw=true)
