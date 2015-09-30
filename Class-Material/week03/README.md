@@ -12,8 +12,8 @@
 * hw for this week can be found [here](https://github.com/mositech/CS2015/issues/9)
 
 ###Links to Documentation
-* [setup():](https://processing.org/reference/setup_.html)
-* [draw():](https://processing.org/reference/draw.html)
+* [setup()](https://processing.org/reference/setup_.html)
+* [draw()](https://processing.org/reference/draw.html)
 
 ###Images
 ![ellipsemode()](https://github.com/mositech/CS2015/blob/master/Class-Material/week03/imageNotes/01_ellipsemode.jpg?raw=true)

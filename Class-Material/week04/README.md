@@ -14,10 +14,10 @@
 * hw for this week can be found [here](https://github.com/mositech/CS2015/issues/10)
 
 ###Links to Documentation
-* [+ (Addition):](https://processing.org/reference/addition.html)
-* [- (Subtraction):](https://processing.org/reference/minus.html)
-* [* (Multiplication):](https://processing.org/reference/multiply.html)
-* [/ (Division):](https://processing.org/reference/divide.html)
+* [+ (Addition)](https://processing.org/reference/addition.html)
+* [- (Subtraction)](https://processing.org/reference/minus.html)
+* [* (Multiplication)](https://processing.org/reference/multiply.html)
+* [/ (Division)](https://processing.org/reference/divide.html)
 
 ###Images
 ![Variables](https://github.com/mositech/CS2015/blob/master/Class-Material/week04/imageNotes/01_variables.jpg?raw=true)

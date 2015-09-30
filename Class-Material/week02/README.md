@@ -13,7 +13,7 @@
 * hw for this week can be found [here](https://github.com/mositech/CS2015/issues/4)
 
 ###Links to Documentation
-* [size(width,height):](https://processing.org/reference/size_.html)
+* [size(width,height)](https://processing.org/reference/size_.html)
 
 ###Images
 ![Functions](https://github.com/mositech/CS2015/blob/master/Class-Material/week02/imageNotes/01_function.jpg?raw=true)
