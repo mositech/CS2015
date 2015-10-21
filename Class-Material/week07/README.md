@@ -14,6 +14,10 @@
 
 
 ###Images
-![hoverGrid](https://github.com/mositech/CS2015/blob/master/Class-Material/week06/imageNotes/01_hoverGrid.jpg?raw=true)
-![speedAccel](https://github.com/mositech/CS2015/blob/master/Class-Material/week06/imageNotes/02_speedAccel.jpg?raw=true)
-![gravity](https://github.com/mositech/CS2015/blob/master/Class-Material/week06/imageNotes/03_gravityBall.jpg?raw=true)
+![Loops](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/01_loops.jpg?raw=true)
+![whileLoop](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/02_whileloop.jpg?raw=true)
+![ifVsWhile](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/03_ifWhile.jpg?raw=true)
+![exitCondition](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/04_exitCondition.jpg?raw=true)
+![loopStructure](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/05_loopStructure.jpg?raw=true)
+![forLoop](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/06_forLoop.jpg?raw=true)
+![homeworkLoop](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/07_homework.jpg?raw=true)
