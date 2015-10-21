@@ -1,4 +1,4 @@
-#Week 6
+#Week 7
 
 ###Items covered
 * While loop
@@ -6,7 +6,7 @@
 * For loop
 
 ### Homework
-* hw for this week can be found [here](https://github.com/mositech/CS2015/issues/14)
+* hw for this week can be found [here](https://github.com/mositech/CS2015/issues/16)
 
 ###Links to Documentation
 * [while](https://processing.org/reference/while.html)
