@@ -13,11 +13,11 @@
 
 
 ###Images
-![codeOrganization](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/01_loops.jpg?raw=true)
-![spaceInvaders](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/02_whileloop.jpg?raw=true)
-![functions](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/03_ifWhile.jpg?raw=true)
-![functionSyntax](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/04_exitCondition.jpg?raw=true)
-![setupDraw](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/05_loopStructure.jpg?raw=true)
-![functionExample](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/06_forLoop.jpg?raw=true)
-![codeReuse](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/07_homework.jpg?raw=true)
-![returnTypes](https://github.com/mositech/CS2015/blob/master/Class-Material/week07/imageNotes/07_homework.jpg?raw=true)
+![codeOrganization](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/01_organization.jpg?raw=true)
+![spaceInvaders](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/02_spaceInvaders.jpg?raw=true)
+![functions](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/03_functions.jpg?raw=true)
+![functionSyntax](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/04_functionSyntax.jpg?raw=true)
+![setupDraw](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/05_setupDraw.jpg?raw=true)
+![functionExample](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/06_functionExample.jpg?raw=true)
+![codeReuse](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/07_codeReuse.jpg?raw=true)
+![returnTypes](https://github.com/mositech/CS2015/blob/master/Class-Material/week08/imageNotes/08_returnTypes.jpg?raw=true)
