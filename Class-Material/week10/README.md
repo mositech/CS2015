@@ -14,7 +14,7 @@
 
 
 ###Images
-![classReview]()
-![constructorArgumentExample]()
-![scopeExample]()
-![scope]()
+![classReview](https://github.com/mositech/CS2015/blob/master/Class-Material/week10/imageNotes/01_classReview.jpg?raw=true)
+![constructorArgumentExample](https://github.com/mositech/CS2015/blob/master/Class-Material/week10/imageNotes/02_constructorArgumentEx.jpg?raw=true)
+![scopeExample](https://github.com/mositech/CS2015/blob/master/Class-Material/week10/imageNotes/03_scopeExample.jpg?raw=true)
+![scope](https://github.com/mositech/CS2015/blob/master/Class-Material/week10/imageNotes/04_scope.jpg?raw=true)
