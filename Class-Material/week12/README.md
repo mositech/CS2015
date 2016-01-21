@@ -1,25 +1,25 @@
-#Week 11
+#Week 12
 
 ###Items covered
-* Arrays
-* Array Syntax
-* For Loops
+* Vectors
+* Vector Addition
 
 ### Homework
-* hw for this week can be found [here](https://github.com/mositech/CS2015/issues/26)
+* hw for this week can be found [here](https://github.com/mositech/CS2015/issues/31)
 
 ###Links to Documentation
-* [Array Acces](https://processing.org/reference/arrayaccess.html)
-* [Array](https://processing.org/reference/Array.html)
+* [PVector](https://processing.org/reference/PVector.html)
 
 
 ###Images
-![arrays](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/01_arrays.jpg?raw=true)
-![arrayExactly](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/02_arrayExactly.jpg?raw=true)
-![usefullness](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/03_usefullness.jpg?raw=true)
-![index](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/04_index.jpg?raw=true)
-![arraySyntax](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/05_initialiaze.jpg?raw=true)
-![arrayValue](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/06_declare.jpg?raw=true)
-![ex01](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/07_exercises.jpg?raw=true)
-![ex2](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/08_exercises2.jpg?raw=true)
-![ex3](https://github.com/mositech/CS2015/blob/master/Class-Material/week11/imageNotes/09_initializingValues.jpg?raw=true)
+![vectors](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/01_vectors.jpg?raw=true)
+![magnitude](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/02_magnitude.jpg?raw=true)
+![directions](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/03_directions.jpg?raw=true)
+![practice](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/04_practice.jpg?raw=true)
+![variables](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/05_variables.jpg?raw=true)
+![define vector](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/05_variables1.jpg?raw=true)
+![frames](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/07_frames.jpg?raw=true)
+![vector addition](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/08_addition.jpg?raw=true)
+![vector values](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/09_position_vector.jpg?raw=true)
+![vector functions](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/10_vectorFunctions.jpg?raw=true)
+![recap](https://github.com/mositech/CS2015/blob/master/Class-Material/week12/imageNotes/11_recap.jpg?raw=true)
