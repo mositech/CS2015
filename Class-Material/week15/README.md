@@ -1,4 +1,4 @@
-#Week 13
+#Week 15
 
 ###Items covered
 * Vectors
@@ -8,18 +8,18 @@
 * Mover Class
 
 ### Homework
-* hw for this week can be found [here](https://github.com/mositech/CS2015/issues/32)
+* hw for this week can be found [here](https://github.com/mositech/CS2015/issues/36)
 
 ###Links to Documentation
 * [PVector](https://processing.org/reference/PVector.html)
 
 
 ###Images
-![refactoring](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/01_refactoring.jpg?raw=true)
-![review](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/02_review.jpg?raw=true)
-![vector mult](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/03_mult.jpg?raw=true)
-![mag](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/04_mag.jpg?raw=true)
-![setMag normalize](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/05_setMagNormalize.jpg?raw=true)
-![sub mult](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/06_subMult.jpg?raw=true)
-![sub](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/07_sub.jpg?raw=true)
-![acceleration](https://github.com/mositech/CS2015/blob/master/Class-Material/week13/imageNotes/08_acceleration.jpg?raw=true)
+![forces](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/01_forces.jpg?raw=true)
+![first law](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/02_firstlaw.jpg?raw=true)
+![equilibrium](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/03_equillibrium.jpg?raw=true)
+![third law](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/04_thirdlaw.jpg?raw=true)
+![simulation](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/05_simulation.jpg?raw=true)
+![second law](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/06_secondLaw.jpg?raw=true)
+![mass](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/07_mass.jpg?raw=true)
+![second law](https://github.com/mositech/CS2015/blob/master/Class-Material/week15/imageNotes/08_secondLaw.jpg?raw=true)
