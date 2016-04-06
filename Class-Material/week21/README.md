@@ -18,10 +18,10 @@
 
 
 ###Images
-![gravForce](https://github.com/mositech/CS2015/blob/master/Class-Material/week20/imageNotes/01_gravForce.jpg?raw=true)
-![gravFormula](https://github.com/mositech/CS2015/blob/master/Class-Material/week20/imageNotes/02_gravFormula.jpg?raw=true)
-![formulaDefined](https://github.com/mositech/CS2015/blob/master/Class-Material/week20/imageNotes/03_formulaDefined.jpg?raw=true)
-![thingsWeNeed](https://github.com/mositech/CS2015/blob/master/Class-Material/week20/imageNotes/04_thingsWeNeed.jpg?raw=true)
-![codeForce](https://github.com/mositech/CS2015/blob/master/Class-Material/week20/imageNotes/05_codeForce.jpg?raw=true)
-![attractor01](https://github.com/mositech/CS2015/blob/master/Class-Material/week20/imageNotes/07_attractor01.jpg?raw=true)
-![attractor02](https://github.com/mositech/CS2015/blob/master/Class-Material/week20/imageNotes/08_attractor02.jpg?raw=true)
+![trig](https://github.com/mositech/CS2015/blob/master/Class-Material/week21/imageNotes/01_trig.jpg?raw=true)
+![anatomy](https://github.com/mositech/CS2015/blob/master/Class-Material/week21/imageNotes/02_trigandanatomy.jpg?raw=true)
+![sohcahtoa](https://github.com/mositech/CS2015/blob/master/Class-Material/week21/imageNotes/03_sohcahtoa.jpg?raw=true)
+![radians](https://github.com/mositech/CS2015/blob/master/Class-Material/week21/imageNotes/04_radians.jpg?raw=true)
+![pi](https://github.com/mositech/CS2015/blob/master/Class-Material/week21/imageNotes/05_PiRadians.jpg?raw=true)
+![arctan](https://github.com/mositech/CS2015/blob/master/Class-Material/week21/imageNotes/06_arctan.jpg?raw=true)
+![display](https://github.com/mositech/CS2015/blob/master/Class-Material/week21/imageNotes/07_displayFunc.jpg?raw=true)
